@@ -20,4 +20,26 @@
   height: 100vh;
   background: #b3e891;
   float: left;
+  position: relative;
+}
+
+.image-placeholder{
+
+  background: #d50021;
+  height: 20vh;
+  width:100%;
+  position: absolute;
+  bottom: 0;
+
+}
+
+.image-placeholder h2{
+
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 25%;
+  font-family: sans-serif;
+  font-weight: lighter;
+
 }
