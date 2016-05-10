@@ -1,7 +1,32 @@
 .main-header{
 
   background: #444;
-  height: 15vh;
+  height: 20vh;
+}
+
+.body{
+
+  background: #EFEFEF;
+  height:80vh;
+
+}
+
+.sidebar-left{
+
+  background: #d8d8d8;
+  float: left;
+  width: 15%;
+  height: 88vh;
+
+}
+
+.sidebar-right{
+
+  background: #d8d8d8;
+  float: right;
+  width: 15%;
+  height: 88vh;
+
 }
 
 .main-footer{
