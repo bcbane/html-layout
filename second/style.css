@@ -1,36 +1,23 @@
-.main-header{
+.blue {
 
-  background: #444;
-  height: 20vh;
-}
-
-.body{
-
-  background: #EFEFEF;
-  height:80vh;
-
-}
-
-.sidebar-left{
-
-  background: #d8d8d8;
+  width: calc(100%  /3);
+  height: 100vh;
+  background: #4791dc;
   float: left;
-  width: 15%;
-  height: 88vh;
-
 }
 
-.sidebar-right{
+.teal {
 
-  background: #d8d8d8;
-  float: right;
-  width: 15%;
-  height: 88vh;
-
+  width: calc(100%  /3);
+  height: 100vh;
+  background: #30c7ac;
+  float: left;
 }
 
-.main-footer{
+.lime {
 
-  background: #444;
-  height: 8vh;
+  width: calc(100%  /3);
+  height: 100vh;
+  background: #b3e891;
+  float: left;
 }
